@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FeedBackManagementSystem</string>
+    <string name="logo">logo</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Login</string>
+    <string name="new_user_click_here">New User? Click here</string>
+    <string name="feedback">FeedBack</string>
+</resources>
